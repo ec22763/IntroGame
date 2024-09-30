@@ -1,2 +1,2 @@
 # IntroGame
-#Sthefany
+#Sthef
